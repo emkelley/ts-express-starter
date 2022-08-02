@@ -1,0 +1,8 @@
+{
+  "name": "api.dencap.io",
+  "description": "DENCAP Payment Portal API",
+  "repository": "https://github.com/dencap/api.dencap.io",
+  "logo": "",
+  "keywords": [],
+  "image": "heroku/nodejs"
+}
